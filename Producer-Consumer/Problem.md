@@ -1,0 +1,1 @@
+The Producer-Consumer Problem (sometimes called the Bounded-Buffer Problem) is a classic example of a multi-threaded synchronization problem. The problem describes two threads, the Producer and the Consumer, and they are sharing a common, fixed-size buffer that is used as a queue.
